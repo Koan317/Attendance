@@ -18,5 +18,8 @@
     <ClCompile Include="attendance.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="createRoster.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
