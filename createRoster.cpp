@@ -1,4 +1,4 @@
-﻿#ifndef ROSTER
+#ifndef ROSTER
 #define ROSTER
 #include <vector>
 #include <string>
